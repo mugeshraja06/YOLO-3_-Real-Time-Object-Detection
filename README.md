@@ -4,8 +4,7 @@ Real Time Object Detection using YOLOv3 with OpenCV and Python
 Download DarkNet from below link:
 
 ! git clone https://github.com/pjreddie/darknet
-! cd darknet
-! make
+
 
 Download DarkNet from below link:
 
