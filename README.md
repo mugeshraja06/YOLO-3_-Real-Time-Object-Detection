@@ -6,7 +6,7 @@ Download DarkNet from below link:
 ! git clone https://github.com/pjreddie/darknet
 
 
-Download DarkNet from below link:
+Download Yolo3 _weights from below link:
 
 ! wget https://pjreddie.com/media/files/yolov3.weights
 
