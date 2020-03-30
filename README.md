@@ -1,6 +1,15 @@
 # YOLO-3_-Real-Time-Object-Detection
 Real Time Object Detection using YOLOv3 with OpenCV and Python
 
+Download DarkNet from below link:
+
+! git clone https://github.com/pjreddie/darknet
+! cd darknet
+! make
+
+Download DarkNet from below link:
+
+! wget https://pjreddie.com/media/files/yolov3.weights
 
 Objective:
 We have chosen the Coco dataset from 2014 and 2017 which would cover 80 unique
